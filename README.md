@@ -1,7 +1,5 @@
 # Smart_Irrigation_Enhancing_Water_Management-Project
 
-# Water Irrigation ML Project
-
 This repository contains a machine learning model for predicting water requirements for irrigation based on environmental parameters.
 
 ## Running in Google Colab
